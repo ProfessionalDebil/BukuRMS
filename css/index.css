@@ -1,0 +1,11 @@
+#container {
+    display: inline-block;
+    margin: auto;
+    width: 800px;
+}
+
+.page {
+    margin-left: auto;
+    margin-right: auto;
+    height: 90vh;
+}
