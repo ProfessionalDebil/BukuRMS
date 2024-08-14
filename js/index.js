@@ -11,7 +11,7 @@ function left() {
 }
 
 function right() {
-    page = Math.min(page + 1, 6)
+    page = Math.min(page + 1, 7)
     console.log(page);
 
     leftPage.src = "pages/" + (2 * page).toString() + ".png";
